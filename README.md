@@ -23,7 +23,7 @@ This is a simple web application that generates random colors. It provides hexad
 
 ## 🎥 Demo
 
-You can see a live demo of the Random Colour Generator [here](link-to-live-demo).
+You can see a live demo of the Random Colour Generator [here](https://mohit15-web.github.io/RandomColorGenerator/).
 
 ## 📦 Installation
 
